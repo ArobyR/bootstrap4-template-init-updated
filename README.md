@@ -6,8 +6,8 @@
    - Font Awesome
    - Jquery
    - Browser-sync
-   - Gulp
+   - Gulp (gulp-cli + gulp-sass)
 ---
 ### Note: :bookmark_tabs:
-  - To run script: **npm run start**, you can change for *start* or anything. 
-   
+  - To download and install the dependencies: npm install.
+  - To run script: **npm run dev**, you can change for *builder* or anything. 
