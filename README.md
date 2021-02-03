@@ -1,7 +1,7 @@
 # bootstrap4-template-init-updated
   Template Boostrap updated (2020). 
 ## Setup: :computer:
-   - Boostrap 4
+   - Bootstrap 4
    - Popper v2
    - Font Awesome
    - Jquery
